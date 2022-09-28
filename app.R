@@ -6,7 +6,7 @@ data_descr = p("codes ",tags$b(".fxf")," and ",tags$b(".dtc")," refers to egg st
 
 fxf_ref= tags$li("Mother-Specific Signature in the Maternal Transcriptome Composition of Mature, Unfertilized Zebrafish Eggs",
             a(href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0147151","publication" ))
-dtc_ref= tags$li("Transcriptome dynamics in early zebrafish embryogenesis determined by high-resolution time course analysis",a(href="http://","publication"),"(to be added later)")
+dtc_ref= tags$li("Transcriptome dynamics in early zebrafish embryogenesis determined by high-resolution time course analysis",a(href="https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-017-3672-z","publication"))
 
 
 ui <- shinyUI(fluidPage(
